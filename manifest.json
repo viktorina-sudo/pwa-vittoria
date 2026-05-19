@@ -1,0 +1,15 @@
+{
+  "name": "Школа Виттории Паутовой",
+  "short_name": "VP Calculator",
+  "start_url": "/members",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://static.tildacdn.com/tild6432-3331-4563-a330-613830636139/icon-512png.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
